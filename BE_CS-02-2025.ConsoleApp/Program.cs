@@ -11,6 +11,9 @@ namespace BE_CS_02_2025.ConsoleApp
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello");
+            System.Console.WriteLine("World");
+
+
         }
     }
 }
